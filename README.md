@@ -1,5 +1,5 @@
 # 👾 About Me:
-📚 I'm currently studying Control and Automation Engineering at IFG<br>🌱 I'm currently learning Data Structure,  C, JavaScript and Dart<br>
+📚 I'm currently studying Control and Automation Engineering at IFG<br>🌱 I'm currently learning Data Structure in Dart and C<br>
 
 
 ## 🌐 Socials:
