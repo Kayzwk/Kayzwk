@@ -5,9 +5,9 @@
 
 ⚡ I am dedicated and studious, always looking to learn new things.
 
-🌱 I'm currently exploring JavaScript, SQL, C++ and Arduino.
+🌱 I'm currently learning JavaScript, SQL, C++ and Arduino.
 
-🧠 I'm currently learning deep learning and vision computer.
+🧠 I'm currently exploring deep learning and vision computer.
 
 🤓 I love playing games, RPG and nerdy stuff.
 
