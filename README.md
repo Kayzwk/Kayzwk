@@ -1,6 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👾;+I'm+Davi!;" />
-
-<h2 align="center">🔭 About Me</h2>
+<h1 align="center">🔭 About Me</h1>
 <div align="center">
 
 📚 I'm currently studying Control and Automation Engineering at IFG.
@@ -11,7 +9,7 @@
 
 🧠 I'm currently learning deep learning and vision computer.
 
-🤓 I love playing games, role playing and nerdy stuff.
+🤓 I love playing games, RPG and nerdy stuff.
 
 🌎 I’m Brazilian, I speak portuguese and english!
 </div>
@@ -54,7 +52,7 @@
 
 <div align= "center">
   <a href="https://github.com/Kayzwk">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kayzwk&show_icons=true&rank_icon=github&theme=tokyonight&bg_color=00000000&include_all_commits=true&count_private_true"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kayzwk&show_icons=true&rank_icon=github&theme=tokyonight&bg_color=00000000"/>
   </a>
   <a href="https://github.com/Kayzwk">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzwk&layout=compact&langs_count=20&theme=tokyonight&bg_color=00000000"/>
