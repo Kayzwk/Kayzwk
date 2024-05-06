@@ -52,7 +52,7 @@
 
 <div align= "center">
   <a href="https://github.com/Kayzwk">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kayzwk&show_icons=true&rank_icon=github&midnight-purple"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kayzwk&show_icons=true&rank_icon=github&theme=midnight-purple"/>
   </a>
   <a href="https://github.com/Kayzwk">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzwk&layout=compact&langs_count=20&hide=jupyter%20notebook&theme=midnight-purple"/>
